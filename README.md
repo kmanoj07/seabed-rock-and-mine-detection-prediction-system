@@ -1,4 +1,4 @@
-# Seabed Rock and Mine Detection Prediction System
+# Seabed Rock & Mine Object Detection System (Machine Learning)
 
 ## Project Overview
 
